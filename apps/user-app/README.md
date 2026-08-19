@@ -1,5 +1,5 @@
 ## Getting Started
-
+This is user app with kamana
 First, run the development server:
 
 ```bash
