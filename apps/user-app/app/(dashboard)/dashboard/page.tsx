@@ -1,6 +1,7 @@
 
 export default function() {
     return <div>
-        Dashboard
+        Dashboard 
+        This is kamana with new feature
     </div>
 }
